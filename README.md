@@ -10,7 +10,7 @@ Overview
 
 This repository documents the design, development, integration, and validation of an advanced, open-source 3D printing platform built around Klipper firmware, Moonraker API, and Mainsail UI.
 
-The project focuses on upgrading and repurposing existing hardware into a modern, feature-rich system aligned with current industry and research standards—while keeping the solution cost-effective, modular, and extensible.
+The project focuses on upgrading and repurposing existing hardware into a modern, feature-rich system aligned with current industry and research standards while keeping the solution cost-effective, modular, and extensible.
 
 This work is the result of hands-on system-level engineering, combining firmware development, IoT integration, motion control optimization, and reliability engineering.
 
