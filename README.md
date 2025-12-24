@@ -4,7 +4,7 @@ A restoration and development was carried out on an almost scrapped Leapfrog Cre
 
 
 Open-Source Development of an Advanced Klipper-Based 3D Printing Platform
-<img width="393" height="635" alt="printer" src="https://github.com/user-attachments/assets/6b83a799-426e-4ed1-921d-5b10bc12ca56" />
+<img width="393" height="635" alt="printer" src="https://github.com/user-attachments/assets/6b83a799-426e-4ed1-921d-5b10bc12ca56" align="centre" />
 
 
 Overview
