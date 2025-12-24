@@ -73,6 +73,8 @@ Modular & Future-Ready Design
 
 Clean separation of:
 
+
+
 Firmware logic
 
 Macros
@@ -115,6 +117,8 @@ Real-time monitoring without compromising print stability
 
 
 
+
+
 Results & Outcomes
 
 Successfully transformed legacy hardware into a modern, networked 3D printer
@@ -126,6 +130,8 @@ Established a robust baseline for high-speed and intelligent printing
 Created a reusable architecture applicable to multiple printers
 
 
+
+
 *Open-Source Philosophy*
 
 This project is developed with a strong belief in:
@@ -135,6 +141,7 @@ Transparency
 Reproducibility
 
 Community-driven improvement
+
 
 
 
@@ -151,6 +158,8 @@ Timelapse & sensor integrations: 🟡 Ongoing optimization
 Advanced motion tuning: 🟡 Planned
 
 Multi-tool / MMU expansion: 🔜 Future work
+
+
 
 
 Acknowledgements  
